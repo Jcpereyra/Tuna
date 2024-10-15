@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Jcpereyra/Tuna/static/css/main.fb3d319e.css",
-    "main.js": "/Jcpereyra/Tuna/static/js/main.9b2be18c.js",
-    "static/js/453.0dec79d9.chunk.js": "/Jcpereyra/Tuna/static/js/453.0dec79d9.chunk.js",
+    "main.js": "/Jcpereyra/Tuna/static/js/main.3eb660e2.js",
+    "static/js/453.5e87ab4d.chunk.js": "/Jcpereyra/Tuna/static/js/453.5e87ab4d.chunk.js",
     "static/media/store.webp": "/Jcpereyra/Tuna/static/media/store.1c405998e4fd786650ec.webp",
     "static/media/profile.png": "/Jcpereyra/Tuna/static/media/profile.371de735ae83be759d05.png",
     "static/media/trolley.png": "/Jcpereyra/Tuna/static/media/trolley.c2bff3bf9fc2d596ed05.png",
     "index.html": "/Jcpereyra/Tuna/index.html",
     "main.fb3d319e.css.map": "/Jcpereyra/Tuna/static/css/main.fb3d319e.css.map",
-    "main.9b2be18c.js.map": "/Jcpereyra/Tuna/static/js/main.9b2be18c.js.map",
-    "453.0dec79d9.chunk.js.map": "/Jcpereyra/Tuna/static/js/453.0dec79d9.chunk.js.map"
+    "main.3eb660e2.js.map": "/Jcpereyra/Tuna/static/js/main.3eb660e2.js.map",
+    "453.5e87ab4d.chunk.js.map": "/Jcpereyra/Tuna/static/js/453.5e87ab4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb3d319e.css",
-    "static/js/main.9b2be18c.js"
+    "static/js/main.3eb660e2.js"
   ]
 }
