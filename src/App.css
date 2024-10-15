@@ -636,7 +636,7 @@ input{
 }
 
 /* Media Queries */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) and (max-device-width:812px){
   .App-header {
     font-size: 24px;
     max-height: 100px;
@@ -877,6 +877,7 @@ input{
 
   .status {
     font-size: 24px;
+    margin-left: -14px;
   }
 
   .pageTitle {
@@ -911,5 +912,27 @@ input{
 
   .items input {
     font-size: 14px;
+  }
+  .reducer{
+    z-index: 1;
+    height: 40px;
+    margin-top: 1cm;
+    margin-left: -90px;
+  }
+  .amount{
+    z-index: 1;
+    margin-top: 1cm;
+    font-size: 18px;
+  }
+  .adder{
+    z-index: 1;
+    height: 40px;
+    margin-top: 1cm;
+  }
+  inpu{
+    max-width: 180px;
+    max-height: 50px; 
+    padding: 0px;
+    margin: 0px 0px;
   }
 }
