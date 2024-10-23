@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Jcpereyra/Tuna/static/css/main.61e646b5.css",
-    "main.js": "/Jcpereyra/Tuna/static/js/main.6a96121d.js",
-    "static/js/453.0dec79d9.chunk.js": "/Jcpereyra/Tuna/static/js/453.0dec79d9.chunk.js",
-    "static/media/store.webp": "/Jcpereyra/Tuna/static/media/store.1c405998e4fd786650ec.webp",
-    "static/media/profile.png": "/Jcpereyra/Tuna/static/media/profile.371de735ae83be759d05.png",
-    "static/media/android.png": "/Jcpereyra/Tuna/static/media/android.89fe62949d3bc9befac2.png",
-    "static/media/apple.png": "/Jcpereyra/Tuna/static/media/apple.1511c3d419cb16aec154.png",
-    "static/media/trolley.png": "/Jcpereyra/Tuna/static/media/trolley.c2bff3bf9fc2d596ed05.png",
-    "index.html": "/Jcpereyra/Tuna/index.html",
-    "main.61e646b5.css.map": "/Jcpereyra/Tuna/static/css/main.61e646b5.css.map",
-    "main.6a96121d.js.map": "/Jcpereyra/Tuna/static/js/main.6a96121d.js.map",
-    "453.0dec79d9.chunk.js.map": "/Jcpereyra/Tuna/static/js/453.0dec79d9.chunk.js.map"
+    "main.css": "/Tuna/static/css/main.1bcaa0e7.css",
+    "main.js": "/Tuna/static/js/main.522c91f6.js",
+    "static/js/453.0dec79d9.chunk.js": "/Tuna/static/js/453.0dec79d9.chunk.js",
+    "static/media/store.webp": "/Tuna/static/media/store.1c405998e4fd786650ec.webp",
+    "static/media/profile.png": "/Tuna/static/media/profile.371de735ae83be759d05.png",
+    "static/media/android.png": "/Tuna/static/media/android.89fe62949d3bc9befac2.png",
+    "static/media/apple.png": "/Tuna/static/media/apple.1511c3d419cb16aec154.png",
+    "static/media/trolley.png": "/Tuna/static/media/trolley.c2bff3bf9fc2d596ed05.png",
+    "index.html": "/Tuna/index.html",
+    "main.1bcaa0e7.css.map": "/Tuna/static/css/main.1bcaa0e7.css.map",
+    "main.522c91f6.js.map": "/Tuna/static/js/main.522c91f6.js.map",
+    "453.0dec79d9.chunk.js.map": "/Tuna/static/js/453.0dec79d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61e646b5.css",
-    "static/js/main.6a96121d.js"
+    "static/css/main.1bcaa0e7.css",
+    "static/js/main.522c91f6.js"
   ]
 }
