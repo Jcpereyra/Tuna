@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Tuna/static/css/main.0918e09d.css",
-    "main.js": "/Tuna/static/js/main.714db4d1.js",
+    "main.css": "/Tuna/static/css/main.5a8876ac.css",
+    "main.js": "/Tuna/static/js/main.51a6a8de.js",
     "static/js/453.0dec79d9.chunk.js": "/Tuna/static/js/453.0dec79d9.chunk.js",
     "static/media/store.webp": "/Tuna/static/media/store.1c405998e4fd786650ec.webp",
+    "static/media/logout.png": "/Tuna/static/media/logout.d0374bb9108b41d82c0a.png",
+    "static/media/package.png": "/Tuna/static/media/package.11117233ab840fdd6c18.png",
     "static/media/android.png": "/Tuna/static/media/android.89fe62949d3bc9befac2.png",
     "static/media/apple.png": "/Tuna/static/media/apple.1511c3d419cb16aec154.png",
     "static/media/trolley.png": "/Tuna/static/media/trolley.c2bff3bf9fc2d596ed05.png",
     "index.html": "/Tuna/index.html",
-    "main.0918e09d.css.map": "/Tuna/static/css/main.0918e09d.css.map",
-    "main.714db4d1.js.map": "/Tuna/static/js/main.714db4d1.js.map",
+    "main.5a8876ac.css.map": "/Tuna/static/css/main.5a8876ac.css.map",
+    "main.51a6a8de.js.map": "/Tuna/static/js/main.51a6a8de.js.map",
     "453.0dec79d9.chunk.js.map": "/Tuna/static/js/453.0dec79d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0918e09d.css",
-    "static/js/main.714db4d1.js"
+    "static/css/main.5a8876ac.css",
+    "static/js/main.51a6a8de.js"
   ]
 }
