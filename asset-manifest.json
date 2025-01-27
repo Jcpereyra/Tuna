@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tuna/static/css/main.07fe03e3.css",
-    "main.js": "/Tuna/static/js/main.5ad68115.js",
+    "main.js": "/Tuna/static/js/main.90116c52.js",
     "static/js/453.0dec79d9.chunk.js": "/Tuna/static/js/453.0dec79d9.chunk.js",
     "static/media/store.webp": "/Tuna/static/media/store.1c405998e4fd786650ec.webp",
     "static/media/logout.png": "/Tuna/static/media/logout.d0374bb9108b41d82c0a.png",
@@ -11,11 +11,11 @@
     "static/media/trolley.png": "/Tuna/static/media/trolley.c2bff3bf9fc2d596ed05.png",
     "index.html": "/Tuna/index.html",
     "main.07fe03e3.css.map": "/Tuna/static/css/main.07fe03e3.css.map",
-    "main.5ad68115.js.map": "/Tuna/static/js/main.5ad68115.js.map",
+    "main.90116c52.js.map": "/Tuna/static/js/main.90116c52.js.map",
     "453.0dec79d9.chunk.js.map": "/Tuna/static/js/453.0dec79d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07fe03e3.css",
-    "static/js/main.5ad68115.js"
+    "static/js/main.90116c52.js"
   ]
 }
